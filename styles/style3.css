@@ -1,0 +1,36 @@
+h3{text-shadow: 2px 3px 3px gray}
+body {text-align: center;letter-spacing: 2px;line-height: 2;}
+html{background-color: white;margin: 0;}
+img{width: 100px;height: 100px;}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1, h2, h4, p, a {font-size: 18px;color: black;text-shadow: 1px 2px 2px gray}
+a:hover {color: rgb(100, 100, 255);}
+body {text-align: center;letter-spacing: 2px;line-height: 2;cursor: crosshair;}
+body{background-color:whitesmoke;}
+img{width: 100px;height: 100px;}
+
+<style>
+.cover{
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    outline:5000px solid rgba(0, 0, 0, 0.3);
+    z-index: 99999;
+}
+</style>

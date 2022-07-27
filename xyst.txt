@@ -1,0 +1,30 @@
+[Adblock Plus 2.0]
+! Title: xyst
+! Expires: 8848 hours
+! Version: 20210321
+! Last Modified: 2021年03月21日 20:18
+! Homepage: https://we.rthe.xyz/
+||carp5.yuanfudao.com^$important
+||clog.yuanfudao.com^$important
+||live.yuanfudao.com^$important
+||clog3.yuanfudao.com^$important
+||carp6.yuanfudao.com^$important
+||larkv2.yuanfudao.com^$important
+||carp4.yuanfudao.com^$important
+||clog6.yuanfudao.com^$important
+||clog4.yuanfudao.com^$important
+||clog2.yuanfudao.com^$important
+||clog5.yuanfudao.com^$important
+||carp3.yuanfudao.com^$important
+||carp.yuanfudao.com^$important
+||carp2.yuanfudao.com^$important
+||gallery.fbcontent.cn^$important
+||blockadblock.com^$important
+||jquery.com^$important
+||leo-online.fbcontent.cn^$important
+||lark.yuantiku.com^$important
+||leo.fbcontent.cn^$important
+||leo.fbcontent.cn.m.alikunlun.com^$important
+||frog.yuanfudao.com^$important
+||xyks.yuanfudao.com^$important
+||m.fbcontent.cn.w.kunlunle.com^$important
